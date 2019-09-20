@@ -12,6 +12,7 @@ jobs:
     - name: test
       run: |
         sudo apt-get install python3 &&
+        sudo apt-get install can-utils &&
         git clone https://github.com/linux-can/can-utils.git &&
         cd can-utils &&
         ./autogen.sh &&
