@@ -1,5 +1,5 @@
 # Badgerloop Pod V
-[![Actions Status](https://github.com/badgerloop-software/pod-embedded/workflows/ccpp/badge.svg)](https://github.com/badgerloop-software/pod-embedded/actions)
+[![Actions Status](https://github.com/badgerloop-software/pod-embedded/workflows/CPP_CI/badge.svg)](https://github.com/badgerloop-software/pod-embedded/actions)
 
 *Developers: Rohan Daruwala, Ezra Boley*
 
