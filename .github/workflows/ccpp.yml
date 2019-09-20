@@ -11,14 +11,14 @@ jobs:
     - uses: actions/checkout@v1
     - name: test
       run: |
-        sudo apt-get install python3
-        git clone https://github.com/linux-can/can-utils.git
-        cd can-utils
-        ./autogen.sh
-        ./configure
-        make
-        sudo make install 
-        sudo cp cangen /bin/ && sudo cp candump /bin/
-        cd ..
+        sudo apt-get install python3 &&
+        git clone https://github.com/linux-can/can-utils.git &&
+        cd can-utils &&
+        ./autogen.sh &&
+        ./configure &&
+        make &&
+        sudo make install &&
+        sudo cp cangen /bin/ && sudo cp candump /bin/ &&
+        cd .. &&
         ./deploy.sh
         
