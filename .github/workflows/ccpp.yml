@@ -1,4 +1,4 @@
-name: CPP_CI
+name: CCPP
 
 on: [push]
 
