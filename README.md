@@ -1,6 +1,6 @@
 # Badgerloop Pod V
 
-[![Actions Status](https://github.com/badgerloop-software/pod-embedded/workflows/CI/badge.svg)](https://github.com/badgerloop-software/pod-embedded/actions)
+[![Actions Status](https://github.com/rdaruwala/pod-embedded/workflows/CI/badge.svg)](https://github.com/rdaruwala/pod-embedded/actions)
 
 *Developers: Rohan Daruwala, Ezra Boley*
 
